@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">KH4b</string>
+
+    <string-array name="file_name">
+        <item>ApplicationsProvider.apk</item>
+        <item>SpeechRecorder.apk</item>
+        <item>DownloadProvider.apk</item>
+        <item>LatinIME.apk</item>
+        <item>CustomLocale.apk</item>
+        <item>Phone.apk</item>
+        <item>PinyinIME.apk</item>
+        <item>AccountAndSyncSettings.apk</item>
+        <item>DrmProvider.apk</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>10-06-30 21:01</item>
+        <item>10-06-30 21:02</item>
+        <item>10-06-30 21:03</item>
+        <item>10-06-30 21:04</item>
+        <item>10-06-30 21:05</item>
+        <item>10-06-30 21:06</item>
+        <item>10-06-30 21:07</item>
+        <item>10-06-30 21:08</item>
+        <item>10-06-30 21:09</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>17401</item>
+        <item>17402</item>
+        <item>17403</item>
+        <item>17404</item>
+        <item>17405</item>
+        <item>17406</item>
+        <item>17407</item>
+        <item>17408</item>
+        <item>17409</item>
+    </string-array>
+</resources>
